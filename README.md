@@ -1,2 +1,3 @@
 # 100-Days-of-LeetCode
-test for commit
+Day1. [217] Contains Duplicate
+Day2. [242] Valid Anagram
